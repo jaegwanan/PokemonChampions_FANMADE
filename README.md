@@ -204,7 +204,10 @@ src/
 ├── trainer/
 │   ├── Trainer
 │   ├── Player
-│   └── NPCTrainer
+|   ├── NPCTrainer
+|   ├── PokemonStorage
+|   ├── BattleTeam
+│   └── BattleParty
 │
 ├── battle/
 │   ├── Battle
