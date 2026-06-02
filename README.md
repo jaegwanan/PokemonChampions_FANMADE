@@ -1,4 +1,4 @@
-# PocketmonChampions_FANMADE(Console C++)
+# PokemonChampions_FANMADE(Console C++)
 
 ## 프로젝트 소개
 
